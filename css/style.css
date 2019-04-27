@@ -665,7 +665,7 @@ body {
 
 .section-features {
   padding: 20rem 0;
-  background-image: url(../img/chuck_real.jpg);
+  background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.57), rgba(0, 0, 0, 0.7)),url(../img/chuck_real.jpg);
   background-size: cover;
   transform: skewY(-7deg);
   margin-top: -8rem; }
